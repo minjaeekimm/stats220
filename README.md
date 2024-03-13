@@ -11,7 +11,7 @@ My name is Minjae Kim, currently an undergraduate student studying Data Science 
 * Moviessss 🍿 🎬
 
 Here are some of the best movies I have watched:
-1. Interstella
+1. Interstellar
 2. Parasite
 3. Miracle in Cell No. 7 - _definitely recommend this one_ 🥹🥹
 
