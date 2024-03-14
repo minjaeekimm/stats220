@@ -1,4 +1,4 @@
-# WHO AM I?
+# WHO  AM I?
 
 My name is Minjae Kim, currently an undergraduate student studying Data Science at University of Auckland, and this is my first repo on Github so....
 
@@ -13,7 +13,5 @@ My name is Minjae Kim, currently an undergraduate student studying Data Science 
 Here are some of the best movies I have watched:
 1. Interstellar
 2. Parasite
-3. Miracle in Cell No. 7 - _definitely recommend this one_ 🥹🥹
-
-   Here is the [trailer](https://www.youtube.com/watch?v=ILePOcEe7jA) if you are interested!
+3. Miracle in Cell No. 7 - _definitely recommend this one!!_   Here is the [trailer](https://www.youtube.com/watch?v=ILePOcEe7jA) if you are interested!
 
